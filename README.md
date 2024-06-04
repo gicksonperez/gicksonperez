@@ -12,7 +12,7 @@
 
 <img src='https://skillicons.dev/icons?i=react,js,ts,git,html,css' />
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<gicksonperez>/<gicksonperez>/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 **gicksonperez/gicksonperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
